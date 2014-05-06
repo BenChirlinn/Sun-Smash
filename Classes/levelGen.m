@@ -439,12 +439,6 @@ eachShape(void *ptr, void* unused)
 	//NSLog(@"Destroying Bullet");
 }
 
--(void) destroyBullets {
-    for (id obj in _bullets) {
-        
-    }
-}
-
 -(void) logBullet:(id)sender {
 	CCSprite *sprite = (CCSprite *)sender;
     NSValue *pos = [NSValue valueWithCGPoint:sprite.position];

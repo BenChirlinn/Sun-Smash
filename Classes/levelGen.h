@@ -55,7 +55,6 @@
 -(void) reboot;
 
 -(void) destroyBullet : (id)sender data:(void*) data;
--(void) destroyBullets;
 -(void) logBullet:(id)sender;
 
 -(void) resetBullet:(CCSprite*)check;
