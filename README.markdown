@@ -25,6 +25,17 @@ Welcome to Sun Smash, the fun physics puzzle game about destroying planetary sys
 
 -------------------------------
 
+### Libraries
+
+* Chipmunk Physics Engine
+* Cocos 2D Game Engine
+* Cocos Denshion
+* Cocos Live
+* Font Label
+* Touch JSON
+
+-------------------------------
+
 ### History
 
 I started this project in college as my major's thesis, more or less. Wanting to hone my game development skill, I plan to polish off and publish this game into the app store for all to enjoy and critique. Thus begins my life as a proper game developer!
