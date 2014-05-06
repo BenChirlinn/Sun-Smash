@@ -1,0 +1,6 @@
+build/
+LICNESE.chipmunk
+LICENSE.cocos2d
+LICENSE.cocosdension
+.DS_store
+lib/
